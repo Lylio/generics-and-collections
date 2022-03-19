@@ -13,11 +13,11 @@ Examples of Java generics and collections.
 
 ### Setup & Launch
 
-#### Maven Launch
-1. Navigate to a folder which has a main method
+#### Launch
+1. Navigate to a folder which has the Java file you wish to run
 2. Compile the Java file with `javac ExampleName.java`
 3. Run the compiled file with `java ExampleName`
-4. Open browser at http://localhost:8080
+4. Output should be displayed on your terminal
 
 <br />
 
