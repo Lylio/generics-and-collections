@@ -38,7 +38,7 @@ public class TreeMapMain {
 
         // Iterate using forEach()
         keys.forEach(key ->
-                System.out.println(key));   
+                System.out.println(key));
     }
 }
 
